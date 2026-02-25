@@ -1,4 +1,4 @@
-Visit **[rmendez1.github.io/Sitaraman-lab](https://rmendez1.github.io/Sitaraman-lab)** 🚀
+Visit **[rmendez1.github.io/test-lab](https://rmendez1.github.io/test-lab)** 🚀
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17228741.svg)](https://doi.org/10.5281/zenodo.17228741)
 
